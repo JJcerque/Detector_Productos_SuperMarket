@@ -1,0 +1,12 @@
+
+train: /content/Datos/Images/Train # train images (relative to 'path') 128 images
+val: /content/Datos/Images/Val # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: Spaguetti
+  1: Otros
+  2: Aceite
+  3: Arroz
+  4: Frijol
+  5: Atun
